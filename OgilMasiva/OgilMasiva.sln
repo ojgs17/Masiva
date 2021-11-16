@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgilMasiva", "OgilMasiva.csproj", "{EB6E0F89-757B-40B6-AE56-AC120500E7E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelsOgil", "..\Models\ModelsOgil.csproj", "{88B71625-7307-472A-A272-16DD27BC633B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceOgil", "..\InterfaceOgil\InterfaceOgil.csproj", "{A180DD9E-446A-4855-AABB-D0A7746596AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisOgil", "..\RedisOgil\RedisOgil.csproj", "{310B5F41-A0AD-4598-872D-58EE7EED3B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB6E0F89-757B-40B6-AE56-AC120500E7E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6E0F89-757B-40B6-AE56-AC120500E7E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6E0F89-757B-40B6-AE56-AC120500E7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6E0F89-757B-40B6-AE56-AC120500E7E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B71625-7307-472A-A272-16DD27BC633B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B71625-7307-472A-A272-16DD27BC633B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B71625-7307-472A-A272-16DD27BC633B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B71625-7307-472A-A272-16DD27BC633B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A180DD9E-446A-4855-AABB-D0A7746596AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A180DD9E-446A-4855-AABB-D0A7746596AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A180DD9E-446A-4855-AABB-D0A7746596AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A180DD9E-446A-4855-AABB-D0A7746596AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310B5F41-A0AD-4598-872D-58EE7EED3B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310B5F41-A0AD-4598-872D-58EE7EED3B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310B5F41-A0AD-4598-872D-58EE7EED3B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310B5F41-A0AD-4598-872D-58EE7EED3B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54A78F3C-0FF4-4203-8238-F632170C12E0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\DESARROLLO\source\repos\Models\obj\Debug\netcoreapp3.1\ModelsOgil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESARROLLO\source\repos\Models\obj\Debug\netcoreapp3.1\ModelsOgil.AssemblyInfoInputs.cache
+C:\Users\DESARROLLO\source\repos\Models\obj\Debug\netcoreapp3.1\ModelsOgil.AssemblyInfo.cs
+C:\Users\DESARROLLO\source\repos\Models\obj\Debug\netcoreapp3.1\ModelsOgil.csproj.CoreCompileInputs.cache
+C:\Users\DESARROLLO\source\repos\Models\obj\Debug\netcoreapp3.1\ModelsOgil.csproj.AssemblyReference.cache
+C:\Users\DESARROLLO\source\repos\Models\bin\Debug\netcoreapp3.1\ModelsOgil.exe
+C:\Users\DESARROLLO\source\repos\Models\bin\Debug\netcoreapp3.1\ModelsOgil.deps.json
+C:\Users\DESARROLLO\source\repos\Models\bin\Debug\netcoreapp3.1\ModelsOgil.runtimeconfig.json
+C:\Users\DESARROLLO\source\repos\Models\bin\Debug\netcoreapp3.1\ModelsOgil.runtimeconfig.dev.json
+C:\Users\DESARROLLO\source\repos\Models\bin\Debug\netcoreapp3.1\ModelsOgil.dll
+C:\Users\DESARROLLO\source\repos\Models\bin\Debug\netcoreapp3.1\ModelsOgil.pdb
+C:\Users\DESARROLLO\source\repos\Models\obj\Debug\netcoreapp3.1\ModelsOgil.dll
+C:\Users\DESARROLLO\source\repos\Models\obj\Debug\netcoreapp3.1\ModelsOgil.pdb
+C:\Users\DESARROLLO\source\repos\Models\obj\Debug\netcoreapp3.1\ModelsOgil.genruntimeconfig.cache

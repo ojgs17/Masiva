@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InterfaceOgil/1.0.0": {
+        "dependencies": {
+          "ModelsOgil": "1.0.0"
+        },
+        "runtime": {
+          "InterfaceOgil.dll": {}
+        }
+      },
+      "ModelsOgil/1.0.0": {
+        "runtime": {
+          "ModelsOgil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfaceOgil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModelsOgil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
